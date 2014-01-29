@@ -1,0 +1,17 @@
+[
+	{
+		"title":"关于这里",
+		"symbol":"about",
+		"decs":"你可以点进来看到更多的内容哦",
+		"tags":["关于", "yangff", "pdf"],
+		"date":"2014-01-20"
+	},
+	{
+		"title":"Link-Cut Tree",
+		"symbol":"lct",
+		"decs":"最简单的LCT实现方法。",
+		"tags":["lct", "动态树", "splay"],
+		"date":"2014-01-24"
+	}
+
+]

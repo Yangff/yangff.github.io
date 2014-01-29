@@ -1,0 +1,27 @@
+.jumbotron {
+	margin-top: -50px;
+	padding-bottom: 25px;
+}
+.label {
+	margin-right:5px;
+}
+.label:last-child {
+	margin-right:0px;
+}
+
+/* animation */
+
+.con {
+	overflow:hidden;
+}
+
+.con.ani{
+	-webkit-transition: height 300ms;
+    -moz-transition: height 300ms;
+    -o-transition: height 300ms;
+    transition: height 300ms;
+	-webkit-animation-timing-function: ease-in-out;
+	-moz-animation-timing-function: ease-in-out;
+	-o-animation-timing-function: ease-in-out;
+	animation-timing-function: ease-in-out;
+}
