@@ -99,7 +99,7 @@ class Stage
 				window.skirt = "cyborg";
 			else if (window.skirt == "cyborg")
 				window.skirt = "flatly";
-			href = "https://netdna.bootstrapcdn.com/bootswatch/3.0.3/" + window.skirt + "/bootstrap.min.css"
+			href = "./css/" + window.skirt + ".min.css"
 			$("#sty")[0].href = href
 			console.log window.skirt
 
